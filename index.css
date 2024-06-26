@@ -1,0 +1,13 @@
+body{background-color:lightgray;}
+
+header{flex-direction: row; display: flex;flex-direction: row; 
+  justify-content: right; padding: 3px; 
+  background-color:rgb(117, 117, 224);}
+
+h1{color: rgb(6, 74, 43); text-align: center;}
+
+a:hover{font-size:larger;
+color: firebrick;}
+
+#logo{}
+
